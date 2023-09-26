@@ -1,0 +1,14 @@
+{
+  "name": "SDK1",
+  "version": "0.0.1",
+  "private": false,
+  "main": "./index.ts",
+  "files": [
+    "app",
+    "index.ts"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {}
+}
